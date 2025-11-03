@@ -1,7 +1,8 @@
 {
-  "editor.codeActionsOnSave": {
-    "source.fixAll": "explicit",
-    "source.organizeImports": "explicit",
-    "source.sortMembers": "explicit"
-  }
+	"editor.codeActionsOnSave": {
+		"source.fixAll": "explicit",
+		"source.organizeImports": "explicit",
+		"source.sortMembers": "explicit"
+	},
+	"codescene.authToken": "weIU6GUgzaGMei-2H8_lI9iQBmefdHy4JgL6TY-VjeQ.ROUHWtf8AllnbvJ0QuH0me-fLbhAM8mb-iuFNsVLwHM"
 }
